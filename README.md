@@ -1,4 +1,4 @@
-# [](https://github.com/climateguard/UVC-Board#official-library-for-radsens-by-climateguard)Official UVC_Board library by ClimateGuard
+# [](https://github.com/climateguard/UVC_Board#official-library-for-radsens-by-climateguard)Official UVC_Board library by ClimateGuard
 
 **UVC_board – modular device for air and surface disinfection designed by ClimateGuard**
 
@@ -21,11 +21,11 @@
 
 
 
-## [](https://github.com/climateguard/UVC-Board#instructions)Instructions
+## [](https://github.com/climateguard/UVC_Board#instructions)Instructions
 
-You can find datasheet and connection scheme in  ["extras" folder](https://github.com/climateguard/UVC-Board/tree/master/extras/)  
+You can find datasheet and connection scheme in  ["extras" folder](https://github.com/climateguard/UVC_Board/tree/master/extras/)  
 Also you can check video guides in our [YouTube Channel](https://www.youtube.com/channel/UCp0ztK0nSK1sWZI-IgQqJeQ)
 
-## [](https://github.com/climateguard/UVC-Board#contact-us)Contact us
+## [](https://github.com/climateguard/UVC_Board#contact-us)Contact us
 - [ClimateGuard Community in Telegram](https://t.me/climateguard_community)  
 - [Our YouTube channel](https://www.youtube.com/channel/UCp0ztK0nSK1sWZI-IgQqJeQ)
